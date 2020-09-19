@@ -1,0 +1,21 @@
+#mk-contact-form .field-container {
+	position: relative;
+}
+
+.error {
+	color: #f00;
+}
+
+.success {
+	color: #16541e;
+	font-size: 16px;;
+}
+
+.field-msg {
+
+	display: none;
+}
+.show {
+	display: block;
+}
+
